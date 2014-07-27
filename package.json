@@ -1,0 +1,25 @@
+{
+  "name": "geom",
+  "version": "0.0.0",
+  "description": "geom-js =======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArseAssassin/geom-js.git"
+  },
+  "author": "Tuomas Kanerva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArseAssassin/geom-js/issues"
+  },
+  "homepage": "https://github.com/ArseAssassin/geom-js",
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
